@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>YouTube Widget Test</h1>
+<p>Your auto-updating YouTube section will go here!</p>
+</body>
+</html>
